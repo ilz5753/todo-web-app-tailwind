@@ -23,11 +23,9 @@
 
 5. **Interactive Task Creation**: Create new tasks, set descriptions, and categorize them in no time.
 
-6. **Task Editing**: Easily edit task details or change their categories as needed.
+6. **Task Editing**: will be added in next releases.
 
-7.**Color Customization**: The app allows for color customization, including generating random colors for tasks or selecting preferred colors.
-
-8. **Accessibility**: Accessibility is a priority, ensuring that the app is usable and navigable for individuals with disabilities.
+7. **Color Customization**: The app allows for color customization, including generating random colors for tasks or selecting preferred colors.
 
 ## Technologies and Tools:
 
