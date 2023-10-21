@@ -5,7 +5,11 @@
 
 - **Live Demo**: You can experience the app's features in action by visiting the [live demo](https://todo-task-management-e4rr3xq8h-ilz5753.vercel.app/).
 
+[Watch The Video Tutorial](https://www.dropbox.com/scl/fi/w2e0d8cbfns16v8hqterf/14020729_161118.mp4?rlkey=muyh2ft0s0ordksa1sxmdzu7r&dl=0)
+
 - **Figma UI**: The user interface and design elements of the app were thoughtfully crafted using Figma. To explore the design in more detail, check out the [Figma UI](https://www.figma.com/file/mKFSAeSQxTaEhcQwtKCz42/Task-app-web-with-categories-(Community)?type=design&mode=design&t=NxzDwstSvZb8FTBy-1).
+
+- **Video**: 
 
 ## Key Features:
 
@@ -44,3 +48,19 @@
 - **useHooks-ts**: This library offers custom hooks tailored for TypeScript, streamlining development.
 
 - **React Color Palette**: The app features components for color management and selection, offering a visually pleasing experience.
+
+## Screenshots:
+
+Here are some screenshots to give you a visual preview of the Todo Web App:
+
+- **Home**
+
+<img width="1792" alt="Screenshot 1402-07-29 at 16 08 05" src="https://github.com/ilz5753/todo-web-app-tailwind/assets/87062381/0c455f59-69c6-45e7-81db-7dbb6786ca88">
+
+- **Add Task**
+
+<img width="1792" alt="Screenshot 1402-07-29 at 16 10 09" src="https://github.com/ilz5753/todo-web-app-tailwind/assets/87062381/f63a0e7c-b34b-4507-b88f-0333b5307376">
+
+- **Added Task**
+
+<img width="1792" alt="Screenshot 1402-07-29 at 16 10 21" src="https://github.com/ilz5753/todo-web-app-tailwind/assets/87062381/8547395c-f33f-4f51-a47a-8588ddeea5d9">
