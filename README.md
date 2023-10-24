@@ -3,13 +3,9 @@
 ## Project Description:
 - **About**: This Todo Web App is a dynamic and user-friendly task management application. It's built with React, a powerful JavaScript library, and styled using the versatile Tailwind CSS framework.
 
-- **Live Demo**: You can experience the app's features in action by visiting the [live demo](https://todo-task-management-e4rr3xq8h-ilz5753.vercel.app/).
-
-[Watch The Video Tutorial](https://www.dropbox.com/scl/fi/w2e0d8cbfns16v8hqterf/14020729_161118.mp4?rlkey=muyh2ft0s0ordksa1sxmdzu7r&dl=0)
+- **Live Demo**: You can experience the app's features in action by visiting the [live demo](https://todo-task-management-e4rr3xq8h-ilz5753.vercel.app/). ([Watch The Video Tutorial](https://www.dropbox.com/scl/fi/w2e0d8cbfns16v8hqterf/14020729_161118.mp4?rlkey=muyh2ft0s0ordksa1sxmdzu7r&dl=0))
 
 - **Figma UI**: The user interface and design elements of the app were thoughtfully crafted using Figma. To explore the design in more detail, check out the [Figma UI](https://www.figma.com/file/mKFSAeSQxTaEhcQwtKCz42/Task-app-web-with-categories-(Community)?type=design&mode=design&t=NxzDwstSvZb8FTBy-1).
-
-- **Video**: 
 
 ## Key Features:
 
